@@ -32,7 +32,7 @@ Aplikasi ini adalah contoh implementasi deep linking dan navigasi berbasis rute 
 
 ![](assets/images/PageTambah1.png)
 
-# Sesudah ditambah
+## Sesudah ditambah
 
 ![](assets/images/PageEdit2.png)
 
@@ -40,7 +40,7 @@ Aplikasi ini adalah contoh implementasi deep linking dan navigasi berbasis rute 
 
 ![](assets/images/PageEdit1.png)
 
-# Sesudah diedit
+## Sesudah diedit
 
 ![](assets/images/PageEdit2.png)
 
@@ -48,7 +48,7 @@ Aplikasi ini adalah contoh implementasi deep linking dan navigasi berbasis rute 
 
 ![](assets/images/PageHapus1.png)
 
-# Sesudah dihapus
+## Sesudah dihapus
 
 ![](assets/images/PageHapus2.png)
 
@@ -64,7 +64,7 @@ Aplikasi ini adalah contoh implementasi deep linking dan navigasi berbasis rute 
 
 ![](assets/images/PageReset1.png)
 
-# Sesudah direset
+## Sesudah direset
 
 ![](assets/images/PageReset2.png)
 
