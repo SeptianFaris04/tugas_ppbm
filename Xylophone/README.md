@@ -39,13 +39,6 @@ Aplikasi ini mensimulasikan alat musik Xylophone secara sederhana. Pengguna dapa
   - Tombol 6 → Warna Biru → note6.wav
   - Tombol 7 → Warna Ungu → note7.wav
 
-## Notes
-
-1. Pastikan sudah menginstal Flutter SDK.
-2. Menggunakan Java version 17
-3. Menggunakan ndk version 27.0.12077973
-4. Tambahkan dependensi audioplayers pada pubspec.yaml:
-
 ```yaml
 dependencies:
   audioplayers: ^5.2.1
