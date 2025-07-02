@@ -39,7 +39,3 @@ Aplikasi ini mensimulasikan alat musik Xylophone secara sederhana. Pengguna dapa
   - Tombol 6 → Warna Biru → note6.wav
   - Tombol 7 → Warna Ungu → note7.wav
 
-```yaml
-dependencies:
-  audioplayers: ^5.2.1
-```
